@@ -1,4 +1,4 @@
-# 红岩网校Androidf方向暑假考核
+# 红岩网校Android方向暑假考核
 
 ## 一.APP简要介绍
 
@@ -28,6 +28,10 @@
 ![gif](https://github.com/zzz6332/RedrockSummerExam/blob/master/gif/12.gif)
 
 ![gif](https://github.com/zzz6332/RedrockSummerExam/blob/master/gif/13.gif)
+
+![gif](https://github.com/zzz6332/RedrockSummerExam/blob/master/gif/14.gif)
+
+![gif](https://github.com/zzz6332/RedrockSummerExam/blob/master/gif/15.gif)
 
 ### 2.功能介绍
 1.进入app时有欢迎界面
