@@ -107,7 +107,7 @@ class WeatherFragment : BaseFragment() {
     }
 
     private fun initView(view: View) {
-        val typeface = Typeface.createFromAsset(activity?.assets, "typeface_tv_weather.TTF")
+        val typeface = Typeface.createFromAsset(activity?.assets, "typeface_tv_weather.ttf")
         tvWeather = view.findViewById(R.id.tv_weather)
         tvCity = view.findViewById(R.id.tv_weather_city)
         tvDate = view.findViewById(R.id.tv_weather_now_date)
