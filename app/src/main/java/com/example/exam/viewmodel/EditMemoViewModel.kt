@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import com.example.exam.database.entity.Memo
 import com.example.exam.repository.MemoRepository
 
-class EditMemoViewModel: ViewModel() {
+class EditMemoViewModel : ViewModel() {
     private val repository = MemoRepository()
 
     fun addMemo(memo: Memo){

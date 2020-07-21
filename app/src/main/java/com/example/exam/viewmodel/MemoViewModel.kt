@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel
 import com.example.exam.database.entity.Memo
 import com.example.exam.repository.MemoRepository
 
-class MemoViewModel: ViewModel() {
+class MemoViewModel : ViewModel() {
     var list: MutableLiveData<List<Memo>> = MutableLiveData()
     private val repository: MemoRepository = MemoRepository()
     fun getMemoData(){
