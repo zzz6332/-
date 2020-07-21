@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">百宝箱</string>
+    <string name="fragment_read_article_tv_title">文章</string>
+    <string name="fragment_read_article_tv_banner">今日专栏</string>
+    <string name="fragment_read_article_tv_recom">推荐文章</string>
+    <string name="pull_to_refresh_little">下拉更多刷新</string>
+    <string name="pull_to_refresh_much">松开刷新</string>
+    <string name="fragment_memo_title">全部笔记</string>
+    <string name="fragment_item_foot">滑到底了…</string>
+    <string name="fragment_weather_title">天气</string>
+    <string name="fragment_read_article_item_foot_text">上拉加载更多</string>
+    <string name="activity_edit_memo_btn_text">完成</string>
+    <string name="activity_search_city_title">搜索城市</string>
+    <string name="activity_search_city_et_hint">搜索城市(中文/拼音)</string>
+    <string name="activity_select_memo_type_title">选择类型</string>
+    <string name="activity_select_memo_type_life">生活</string>
+    <string name="activity_select_memo_type_personal">个人</string>
+    <string name="activity_select_memo_type_work">工作</string>
+    <string name="activity_select_memo_type_homework">作业</string>
+    <string name="activity_select_memo_type_travel">旅游</string>
+    <string name="activity_select_memo_type_null">未分类</string>
+    <string name="activity_main_text">打开你的百宝箱</string>
+
+</resources>
